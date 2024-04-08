@@ -13,6 +13,3 @@ Welcome to my first project! This project serves as an opportunity for me to pra
 
 Through this project, I hope to improve my skills in front-end web development and become proficient in using Bootstrap as a versatile tool for building responsive websites.
 
----
-
-Feel free to adjust or expand upon this introduction to better fit your project's goals and objectives.
