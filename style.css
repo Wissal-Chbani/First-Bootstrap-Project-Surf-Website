@@ -1,0 +1,42 @@
+.navbar {
+    background-color: rgba(255, 255, 255, 0);
+    transition: all 0.5s;
+}
+
+.navbar-scrolled{
+    background-color: rgb(255, 255, 255, 0.5);
+    box-shadow: 0 3px 10px rgba(255, 255, 255, 0.3);
+}
+
+:root{
+    --bs-body-font-family:  "Shadows Into Light", cursive;
+}
+
+.text{
+    font-family: "shadows Into Light";
+    font-weight: 400;
+    font-style: normal;  
+}
+
+.col-12{
+    margin-left: 60px;
+}
+
+.jj{
+    padding-bottom: 50px;
+    font-size: 30;
+}
+
+.h1 d-none{
+    font-size: 40px;
+}
+
+.c-item{
+    height: 480px;
+}
+
+.c-image{
+    height: 100%;
+    object-fit: cover;
+    filter: brightness(0.6);
+}
