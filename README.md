@@ -13,3 +13,10 @@ Welcome to my first project! This project serves as an opportunity for me to pra
 
 Through this project, I hope to improve my skills in front-end web development and become proficient in using Bootstrap as a versatile tool for building responsive websites.
 
+## Figma Prototype
+
+Explore the Figma prototype to see the design and layout of the website:
+
+[View Figma Prototype](https://www.figma.com/file/NemIqJiEWzZRdVF9Fo2pUJ/50-Different-Style-Buttons-(Community)?type=design&node-id=31%3A17&mode=dev&t=uisNnEBaEZabpZzb-1)
+
+
