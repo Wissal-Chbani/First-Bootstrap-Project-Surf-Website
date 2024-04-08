@@ -17,6 +17,6 @@ Through this project, I hope to improve my skills in front-end web development a
 
 Explore the Figma prototype to see the design and layout of the website:
 
-[View Figma Prototype](https://www.figma.com/file/NemIqJiEWzZRdVF9Fo2pUJ/50-Different-Style-Buttons-(Community)?type=design&node-id=31%3A17&mode=dev&t=uisNnEBaEZabpZzb-1)
+[View Figma Prototype](https://www.figma.com/file/9SYy6fwr3KwolzEsqJn3KS/VViSurf?type=design&node-id=0%3A1&mode=dev&t=vtphI8L6shVRVMHH-1)
 
 
