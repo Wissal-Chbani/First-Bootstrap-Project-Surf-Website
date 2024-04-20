@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Welcome to my first project! This project serves as an opportunity for me to practice building the front end of a website using the Bootstrap front-end framework. As a beginner in web development, I aim to familiarize myself with Bootstrap's features, components, and responsive design capabilities through hands-on experience.
+Welcome to my first Bootstrap project! This project serves as an opportunity for me to practice building the front end of a website using the Bootstrap front-end framework. As a beginner in web development, I aim to familiarize myself with Bootstrap's features, components, and responsive design capabilities through hands-on experience.
 
 ### Project Goals
 
