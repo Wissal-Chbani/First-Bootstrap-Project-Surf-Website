@@ -8,4 +8,17 @@ const navEl = document.querySelector('.navbar');
             }
         })
 
-        
+
+
+
+// Add event listener to the button
+document.getElementById('signupButton').addEventListener('click', function() {
+    // Redirect to the sign-up form page
+    window.location.href = 'signup.html'; 
+  });
+
+  // Add event listener to the button
+  document.getElementById('loginButton').addEventListener('click', function() {
+      // Redirect to the sign-up form page
+      window.location.href = 'login.html'; 
+    });
